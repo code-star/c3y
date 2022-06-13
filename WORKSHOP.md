@@ -47,3 +47,7 @@ payload: 0107050532
 19. Follow the steps for the c3y web app
 20. After uploading to Azure Web app, modify the destination for "My First Flow" to the URL returned by Azure CLI.
 21. Try sending data from your phone and refreshing the web app hosted on your Azure account.
+
+# More info
+
+Can't get enough of IoT after this workshop? Get in touch with one of the organisers (in person or by replying to the invitation mail) and get invited to an R&D day where we can really get hands-on and give you a personalized training.
